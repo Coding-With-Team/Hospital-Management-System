@@ -1,0 +1,17 @@
+1.Doctors
+	slno id       Name    Specilist       Timing          Qualification   Room No.
+
+2. Patients
+	slno id       Name    Disease         Gender          Admit Status    Age
+	
+3.Medicines
+	slno Name     Company         Expiry Date     Cost
+	
+4.Laboratories  
+	slno Facilities               Cost
+ 
+5. Facilities  
+	Name
+ 
+6. Staff
+	slno id       Name    Gender  Desgination        Salary
